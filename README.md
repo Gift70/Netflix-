@@ -6,6 +6,7 @@ Objectives:
 The primary aim is to analyze user subscription behavior, demographics and revenue patterns to optimize retention, enhance marketing strategies and maximize business growth.
 
 Technologies Used:
+
 Python:  Interactive Data Analysis
 
 Pandas:  Data Manipulation
@@ -29,8 +30,12 @@ Basic plans are also associated with users in countries (United States, Italy).
 Female lean towards Basic plans indicating an interest in simple features.
 
 Recommendations:
+
 •	Focus on Under-performing Countries: Since United States and Spain are the top performers, efforts should be directed towards United Kingdom, Italy, France, Brazil, Australia, Germany and Mexico. The sales team could develop targeted strategies, such as localized promotions or partnerships, to boost sales in these underperforming areas.
+
 •	Leverage Top-Performing Countries: United States, and Spain are driving significant profits. The sales team should reinforce these strongholds by maintaining customer satisfaction, offering exclusive deals, or introducing loyalty programs to retain and grow this customer base.
+
 •	Gender-Specific Offers: Tailor Basic plan upgrades for female users as they dominate subscription plan.
+
 •	Subscription Plan Upselling: Basic users contribute the least revenue but show loyalty. Offer discounts or value-add features to encourage upgrades to Premium plans.
  
