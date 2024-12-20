@@ -6,13 +6,16 @@ Objectives:
 The primary aim is to analyze user subscription behavior, demographics and revenue patterns to optimize retention, enhance marketing strategies and maximize business growth.
 
 Technologies Used:
-
 Python:  Interactive Data Analysis
+
 Pandas:  Data Manipulation
+
 PowerBI: Creating Visualizations 
 
 Insight:
+
 •	The dataset reveals that Basic subscription type is the most popular choice across all age groups.  This suggests that affordability and essential features are the primary considerations for most viewers, regardless of their age.
+
 •	In subscription Type, the Basic subscription accounts for 39.87% revenue making it the most significant contributor, followed by Standard subscription for 30.61% and Premium subscription 29.51%. This suggests a strong reliance on Basic subscription.
 
 •	Geographic Insights: The United States lead in total revenue followed by Spain. Countries like United Kingdom, Italy, France, Brazil, Australia, Germany and Mexico trail behind significantly, indicating potential areas for improvement.
