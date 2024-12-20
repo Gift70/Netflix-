@@ -1,8 +1,10 @@
 # Netflix_
 Data Source: The Netflix dataset was gotten from Kaggle.
+
 The dataset provided rich information about Netflix’s user base, subscription types, revenue, demographics and device preferences. 
 
 Objectives:
+
 The primary aim is to analyze user subscription behavior, demographics and revenue patterns to optimize retention, enhance marketing strategies and maximize business growth.
 
 Technologies Used:
