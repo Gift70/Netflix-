@@ -6,6 +6,7 @@ Objectives:
 The primary aim is to analyze user subscription behavior, demographics and revenue patterns to optimize retention, enhance marketing strategies and maximize business growth.
 
 Technologies Used:
+
 Python:  Interactive Data Analysis
 Pandas:  Data Manipulation
 PowerBI: Creating Visualizations 
